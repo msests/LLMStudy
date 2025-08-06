@@ -1,3 +1,5 @@
+## 1. 概述
+
 BBPE（Byte-level BPE）是BPE（Byte Pair Encoding）的一种变体，核心改进在于**直接在字节级别进行子词切分**，而非传统BPE的Unicode字符级别。以下是关键点：
 
 1. **字节级操作**
